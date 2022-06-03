@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@angular/compiler": "^9.1.13",
-    "@angular/core": "^9.1.13",
+    "@angular/core": "^11.0.5",
     "@types/node": "^12.20.15",
     "chai": "^4.3.4",
     "chai-as-promised": "^7.1.1",
